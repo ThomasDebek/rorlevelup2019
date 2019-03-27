@@ -1,0 +1,8 @@
+2019-03-27 11:25:41.157 CET [17127] FATAL:  data directory "/usr/local/var/postgres" has invalid permissions
+2019-03-27 11:25:41.157 CET [17127] DETAIL:  Permissions should be u=rwx (0700) or u=rwx,g=rx (0750).
+2019-03-27 11:27:30.573 CET [17148] FATAL:  database files are incompatible with server
+2019-03-27 11:27:30.573 CET [17148] DETAIL:  The data directory was initialized by PostgreSQL version 10, which is not compatible with this version 11.2.
+2019-03-27 11:27:45.030 CET [17152] FATAL:  data directory "/usr/local/var/postgres" has invalid permissions
+2019-03-27 11:27:45.030 CET [17152] DETAIL:  Permissions should be u=rwx (0700) or u=rwx,g=rx (0750).
+2019-03-27 11:45:05.254 CET [33574] FATAL:  database files are incompatible with server
+2019-03-27 11:45:05.254 CET [33574] DETAIL:  The data directory was initialized by PostgreSQL version 10, which is not compatible with this version 11.2.
