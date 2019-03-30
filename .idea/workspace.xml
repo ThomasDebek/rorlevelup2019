@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b08ef588-530e-4915-b1b3-b249d6ecf2a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/rorlevelup2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rorlevelup2019.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +43,7 @@
     <session id="-852504092">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.opened" value="2" />
@@ -132,20 +133,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lecture_1/homework/app/controllers/samurais_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="398">
               <caret line="50" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lecture_2/homework/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -188,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,22 +188,10 @@
               <item name="rorlevelup2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rorlevelup2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rorlevelup2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_2" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +229,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2930000" />
+    <option name="totallyTimeSpent" value="3433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="417" y="266" width="1132" height="803" extended-state="0" />
